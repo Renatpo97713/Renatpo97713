@@ -16,7 +16,7 @@ E ingreçando na carreira de dev. junior.
 ##
 <p align="left">
   <a href="https://github.com/Renatpo97713/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatpo97713\&layout=donut" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatpo97713&layout=donut" alt="Top Langs"/>
   </a>
 </p>
 
